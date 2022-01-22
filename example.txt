@@ -1,4 +1,4 @@
-README.MD
+EXAMPLE.TXT
 
 
 ============= STAGE 1 DESCRIPTION=====================
@@ -6,7 +6,7 @@ README.MD
 
 Some description
 
-Name: LIVA
+Name: ALEX
 
 
 ============= END OF STAGE 1 DESCRIPTION =====================
