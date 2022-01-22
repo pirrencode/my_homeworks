@@ -1,4 +1,4 @@
-EXAMPLE.TXT
+README.MD
 
 
 ============= STAGE 1 DESCRIPTION=====================
@@ -6,8 +6,38 @@ EXAMPLE.TXT
 
 Some description
 
-Name: ALEX
+Name: LIVA
 
 
 ============= END OF STAGE 1 DESCRIPTION =====================
+
+
+
+1.Install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+2.Create your own Github account
+
+3.Create your first git hub repository – big_data_git_basics
+
+4.Set up repository on your local machine
+
+5.Create README.MD file containing your Student Id and/or basic repo description
+
+6.Commit code to GitHub
+
+7.Create “development” branch
+
+8.Change README.MD
+
+9.Merge development in master
+
+10.Share your repository link
+
+
+
+
+
+
+
+
 
