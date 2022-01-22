@@ -1,0 +1,13 @@
+README.MD
+
+
+============= STAGE 1 DESCRIPTION=====================
+
+
+Some description
+
+Name: LIVA
+
+
+============= END OF STAGE 1 DESCRIPTION =====================
+
